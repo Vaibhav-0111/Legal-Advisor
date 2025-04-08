@@ -68,5 +68,5 @@ The **3D AI Lawyer Agent** is an innovative digital assistant that combines **co
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/jayendrabharti/ai-agents.git
+   git clone https://github.com/vaibhav/ai-agents.git
    cd ai-agents
