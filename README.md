@@ -48,7 +48,7 @@ The **3D AI Lawyer Agent** is an innovative digital assistant that combines **co
 
 | **Home Page**                     | **Chat Interface**                  |
 |------------------------------------|-------------------------------------|
-| ![Home Page](https://via.placeholder.com/400x300.png?text=Home+Page+Avatar) | ![Chat](https://via.placeholder.com/400x300.png?text=Chat+Interface) |
+| ![Home Page](![Screenshot 2025-04-21 232707](https://github.com/user-attachments/assets/6d3a6760-89ac-472d-a4ca-776486f9db03)| ![Chat](https://via.placeholder.com/400x300.png?text=Chat+Interface) |
 
 | **Blender Setup**                 | **API Logs**                       |
 |------------------------------------|------------------------------------|
