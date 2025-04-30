@@ -1,5 +1,5 @@
 # 3D AI Lawyer Agent 🤖⚖️
-
+*2nd Runner up in hackerthon (Code a Hanut)  by Vaibhav Tripathi* 
 ![Project Banner](https://via.placeholder.com/1200x400.png?text=3D+AI+Lawyer+Agent)  
 *A revolutionary web-based legal assistant powered by AI and 3D avatar technology.*
 
